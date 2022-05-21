@@ -35,10 +35,9 @@ export default function home() {
             </svg>
             <span className="ml-1 mr-2 hover:text-blue-300 text-blue-400 hover:underline transition-all duration-400">
               {" "}
-              Made With Joy by
+              Made With Joy by bank!
             </span>
           </span>
-            bank!
         </div>
       </div>
     </>
