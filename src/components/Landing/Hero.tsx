@@ -21,19 +21,6 @@ export default function Hero() {
         </h1>
         <p className="dark:text-gray-300 mt-2 text-lg max-w-lg">
           hi im banknotes{" "}
-          <button
-            onClick={() => open("https://tailwindcss.com")}
-            className="dark:text-blue-300 text-blue-600 hover:text-blue-700 dark:hover:text-blue-400 cursor-pointer active:translate-y-[1px]"
-          >
-            TailwindCSS
-          </button>{" "}
-          and{" "}
-          <button
-            onClick={() => open("https://nextjs.com")}
-            className="dark:text-blue-300 dark:hover:text-blue-400 text-blue-600 hover:text-blue-700  cursor-pointer active:translate-y-[1px]"
-          >
-            NextJS
-          </button>{" "}
           i skid and game for a living.
         </p>
         <div className="mt-2 flex items-center gap-2">
