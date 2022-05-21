@@ -1,29 +1,29 @@
 module.exports = {
   env: {
-    tooltip1: "Steam",
-    link1: "https://steamcommunity.com/NahSahh/",
+    tooltip1: "Twitch",
+    link1: "https://www.twitch.tv/banknotes5m",
 
-    tooltip2: "Github",
-    link2: "https://github.com/nahsahh",
+    tooltip2: "Instagram",
+    link2: "https://www.instagram.com/luhwntrrs/",
 
-    tooltip3: "NahSahh#6249",
-    link3: "https://discord.com/users/310088719187050507",
+    tooltip3: "Bank.#0666",
+    link3: "https://discord.com/users/876585317489066044",
 
-    userName: "NahSahh",
+    userName: "Bank",
 
     cards: [
       {
-        title: "Kythi",
-        link: "https://discord.gg/Fa7t67NEMU",
-        role: "Owner",
-        purpose: "Public File-sharing",
+        title: "RuinRZ",
+        link: "https://discord.gg/rz",
+        role: "Staff",
+        purpose: "Fivem Gaming",
         paragraph:
-          "Kythi is a public free-to-use file-uploader that allows you to upload images and share them with anyone, along with customized embeds to make them look like you want.",
+          "Ruin is a place to meet friends and also is a Fivem PVP server",
       },
       {
         title: "Kraken",
         link: "https://kraken.pics",
-        role: "Developer",
+        role: "Contributor",
         purpose: "Public File Uploader",
         paragraph:
           "Kraken is a public file-uploader, used to store files and customise embeds, with the choice of custom domains, allowing you to personalise your images your way.",
