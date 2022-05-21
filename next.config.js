@@ -14,7 +14,7 @@ module.exports = {
       {
         title: "RuinRZ",
         link: "https://discord.gg/rz",
-        role: "Staff",
+        role: "Owner",
         purpose: "Fivem Gaming",
         paragraph:
           "Ruin is a place to meet friends and also is a Fivem PVP server",
