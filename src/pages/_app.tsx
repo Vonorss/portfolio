@@ -29,7 +29,7 @@ export function Portfolio({ Component, pageProps }: AppProps) {
     <>
       <NextSeo
         title={process.env.userName}
-        description={`${process.env.userName}'s site, you should use Kythi.com btw.`}
+        description={`${process.env.userName}'s site, you should follow me on twitch https://www.twitch.tv/banknotes5m`}
         additionalMetaTags={[
           {
             property: "theme-color",
