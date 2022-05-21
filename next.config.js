@@ -22,7 +22,7 @@ module.exports = {
       {
         title: "Kraken",
         link: "https://kraken.pics",
-        role: "Contributor",
+        role: "User",
         purpose: "Public File Uploader",
         paragraph:
           "Kraken is a public file-uploader, used to store files and customise embeds, with the choice of custom domains, allowing you to personalise your images your way.",
@@ -30,7 +30,7 @@ module.exports = {
       {
         title: "E-Z.host",
         link: "https://e-z.host",
-        role: "Contributor",
+        role: "Booster",
         purpose: "Private File Uploader",
         paragraph:
           "E-Z.host is a closed-private file-uploader, used to store uploads and customise embeds, it has a plethora of features to choose from allowing you to personalise your files, you can purchase it on their website.",
