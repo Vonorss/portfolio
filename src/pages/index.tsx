@@ -17,7 +17,7 @@ export default function home() {
         <div className="flex ml-auto mt-12 sm:text-lg text-sm items-center pb-4">
           This site is
           <span
-            onClick={() => open("https://github.com/NahSahh/portfolio")}
+            onClick={() => open("https://discord.com/users/876585317489066044")}
             className="flex items-center cursor-pointer hover:text-blue-400 duration-300 text-red-300"
           >
             <svg
@@ -35,10 +35,10 @@ export default function home() {
             </svg>
             <span className="ml-1 mr-2 hover:text-blue-300 text-blue-400 hover:underline transition-all duration-400">
               {" "}
-              open source!
+              Made With Joy by
             </span>
           </span>
-          on my github.
+            bank!
         </div>
       </div>
     </>
