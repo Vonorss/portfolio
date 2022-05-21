@@ -1,16 +1,15 @@
 module.exports = {
   env: {
-    tooltip1: "Twitch",
-    link1: "https://www.twitch.tv/banknotes5m",
+    tooltip1: "Steam",
+    link1: "https://steamcommunity.com/profiles/76561199122131442/",
 
-    tooltip2: "Instagram",
-    link2: "https://www.instagram.com/luhwntrrs/",
+    tooltip2: "Github",
+    link2: "https://github.com/Vonorss",
 
     tooltip3: "Bank.#0666",
     link3: "https://discord.com/users/876585317489066044",
 
     userName: "Bank",
-
     cards: [
       {
         title: "RuinRZ",
